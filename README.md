@@ -1,8 +1,5 @@
-HTML email template
-==========
+# HTML email template #
 
-Works with most of the commonly used email applications and is responsive
+A simple responsive HTML email template usable by most of the major email applications (Outlook, Gmail, Ymail, etc..)
 
-The template looks like this
-
-![Alt text](https://raw.github.com/kqlambert/HTML_email/master/email_template_example.png "Theme View")
+![Alt text](https://raw.github.com/kqlambert/HTML_email/master/example.png "Theme View")
